@@ -1,6 +1,7 @@
-= testosterone
 
-Description goes here.
+= Testosterone
+
+Some goodies for testing Rails apps.
 
 == Contributing to testosterone
  
@@ -14,6 +15,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2012 Victor Pudeyev. See LICENSE.txt for
-further details.
+Copyright (c) 2012 Computational Arts Corporation.
+See LICENSE.txt for further details.
 
